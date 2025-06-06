@@ -42,11 +42,16 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NidhiSingh-25/NidhiSingh-25/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NidhiSingh-25/NidhiSingh-25/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NidhiSingh-25/NidhiSingh-25/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NidhiSingh-25/NidhiSingh-25/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="center">
+  <h2> Profile Views <h2/>
   <img src="https://profile-counter.glitch.me/NidhiSingh-25/count.svg?"  />
 </div>
 
